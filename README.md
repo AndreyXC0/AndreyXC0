@@ -1,3 +1,4 @@
+<!--
 # Привет, меня зовут Андрей!
 Я веб-разработчик пишующий свои проеты на __Python__  
 Занимаюсь фрилансом 💻
@@ -11,3 +12,4 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+-->
